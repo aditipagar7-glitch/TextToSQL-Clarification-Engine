@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg[binary]
+pydantic
+python-dotenv
+requests
+sqlglot
+pandas
